@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hearo</string>
+    <string name="headphones_none">חבר אוזניות כדי להתחיל.</string>
+    <string name="headphones_wired">זוהו אוזניות חוטיות.</string>
+    <string name="headphones_usb">זוהו אוזניות USB.</string>
+    <string name="headphones_bluetooth">זוהו אוזניות Bluetooth.</string>
+    <string name="bluetooth_warning">Bluetooth עלול לשנות את עוצמת הקול. לתוצאות אמינות יותר השתמש באוזניות חוטיות.</string>
+    <string name="test_tone_left">צליל בדיקה: שמאל</string>
+    <string name="test_tone_right">צליל בדיקה: ימין</string>
+    <string name="screening_disclaimer">Hearo היא כלי עזר לסינון שמיעה ואינה אבחון רפואי. אם חלה ירידה פתאומית בשמיעה באוזן אחת, פנה בדחיפות לקבלת טיפול רפואי.</string>
+</resources>

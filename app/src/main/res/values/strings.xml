@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hearo</string>
+    <string name="headphones_none">Connect headphones to begin.</string>
+    <string name="headphones_wired">Wired headphones detected.</string>
+    <string name="headphones_usb">USB headphones detected.</string>
+    <string name="headphones_bluetooth">Bluetooth headphones detected.</string>
+    <string name="bluetooth_warning">Bluetooth can alter sound levels. For the most reliable results, use wired headphones.</string>
+    <string name="test_tone_left">Test tone: left</string>
+    <string name="test_tone_right">Test tone: right</string>
+    <string name="screening_disclaimer">Hearo is a hearing screening aid, not a medical diagnosis. If you notice a sudden hearing loss in one ear, seek medical care urgently.</string>
+</resources>
